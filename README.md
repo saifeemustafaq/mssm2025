@@ -36,3 +36,17 @@
   * Opportunities for improvement
 
 ---
+
+### **Week 3: AI Capabilities & Differentiators**
+
+**Objective:** Identify and articulate the role of AI in product differentiation.
+
+**Assignment:**
+
+* Analyze how the product uses AI/ML:
+
+  * What models or techniques are mentioned/used (e.g., LLMs, embeddings, retrieval)?
+  * Is the AI productizing something previously manual or non-scalable?
+  * Where does AI create the most value for the user?
+
+---
