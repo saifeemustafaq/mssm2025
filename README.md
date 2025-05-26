@@ -18,3 +18,21 @@
   * Key competitors
 
 ---
+
+### **Week 2: User Journey Mapping**
+
+**Objective:** Develop empathy for users and understand user-product interaction.
+
+**Assignment:**
+
+* Choose **one core product** from the Week 1 company.
+* Define the **three user personas**.
+* Map out the **user journey**:
+
+  * Entry point: How do users discover and access the product?
+  * Core flows: Key actions and decision points
+  * JTBDs for that persona
+  * Pain points and delight moments
+  * Opportunities for improvement
+
+---
