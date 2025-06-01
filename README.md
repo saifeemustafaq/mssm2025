@@ -39,14 +39,22 @@
 
 ### **Week 3: AI Capabilities & Differentiators**
 
-**Objective:** Identify and articulate the role of AI in product differentiation.
+**Objective:** Identify and articulate the role of AI in product differentiation. 
+
+> Company: Intuit
 
 **Assignment:**
 
-* Analyze how the product uses AI/ML:
+* Analyze how the products use AI/ML:
 
   * What models or techniques are mentioned/used (e.g., LLMs, embeddings, retrieval)?
   * Is the AI productizing something previously manual or non-scalable?
   * Where does AI create the most value for the user?
+  * Provide detailed context about how AI is integrated into Intuit's products and services. Consider including:
+    * Specific examples of AI-powered features or tools within Intuit's product suite.
+    * The impact of AI on user experience, such as automation of tasks, personalization, or improved decision-making.
+    * How AI enhances or streamlines existing workflows for users or businesses.
+    * Notable innovations, strategies, or unique approaches Intuit employs in leveraging AI.
+    * Any challenges, limitations, or future opportunities related to AI integration into Intuit products.
 
 ---
