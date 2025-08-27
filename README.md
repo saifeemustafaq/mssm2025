@@ -79,3 +79,71 @@
 Participants are expected to gain firsthand experience with the products being analyzed. Ideally, this means directly using (dogfooding) the product to understand its capabilities and user experience. If direct access is not possible (e.g., due to paywalls or enterprise restrictions), participants should creatively leverage alternative resources—such as public documentation, user-written blogs, YouTube demos, published case studies, or any other publicly available materials—to inform their competitive analysis. The goal is to demonstrate resourcefulness and a thorough, well-reasoned comparison, even when direct product access is limited.
 
 ---
+
+### **Week 5: Porter's Five Forces Analysis**
+
+**Objective:** Analyze industry structure and competitive dynamics.
+
+**Assignment:**
+
+* Conduct a **Porter's Five Forces analysis** for the product/company:
+
+  * Threat of new entrants
+  * Bargaining power of suppliers
+  * Bargaining power of buyers
+  * Threat of substitute products/services
+  * Rivalry among existing competitors
+* Rate each force (High/Medium/Low) with justification
+* Identify key implications for product strategy
+
+---
+### **Week 6: Feature Prioritization**
+
+**Objective:** Learn to identify and prioritize product features using data-driven frameworks.
+
+**Assignment:**
+
+* Identify **4 potential new features** for the product.
+* For each feature, calculate RICE score:
+  * Reach: Estimate number of users impacted
+  * Impact: Rate potential impact (3=high, 2=medium, 1=low)
+  * Confidence: Rate certainty level (100%, 80%, 50%)
+  * Effort: Estimate engineering quarters needed
+* Prioritize features based on RICE scores
+* Document rationale and assumptionss
+
+---
+
+### **Week 7: Feature Pitch / PRD Lite**
+
+**Objective:** Practice feature ideation and product requirement thinking.
+
+**Assignment:**
+
+* Using the highest-priority feature from Week 5, write a **1-page PRD-lite**:
+
+  * Problem Statement
+  * User Story
+  * Why Now?
+  * Feature Scope
+  * Expected Outcome & Metrics
+  * Optional: Wireframe/mock (textual or visual)
+
+---
+
+### **Week 8: Monetization & GTM Strategy**
+
+**Objective:** Think through business viability and go-to-market strategy.
+
+**Assignment:**
+
+* Explore the **current monetization model** (if any).
+* Suggest 1 new monetization lever (pricing model, tiering, upsells, etc.).
+* Make a basic **GTM strategy**:
+
+  * Target segments
+  * Acquisition channels
+  * Key partnerships
+  * Launch tactics (beta, community, influencer, etc.)
+
+---
